@@ -1,0 +1,41 @@
+.samping {
+	margin: 20px 120px 0 120px;
+}
+.tombol {
+	background-color : #000;
+	margin : 5px 30px 5px 10px;
+	float: left;
+	width:100px;
+	height:40px;
+	padding:10px 20px;
+	color:#fff;
+	border-radius:50px;
+}
+.tombol2 {
+	background-color : #fff;
+	margin : 5px 30px 5px 10px;
+	float: left;
+	width:100px;
+	height:40px;
+	padding:10px 20px;
+	color:#000;
+	border-radius:50px;
+}
+.abouta {
+	text-align:left; font-size:15px;
+}
+.aboutb {
+	text-align:left; padding:0 0 0 50px;
+}
+.aboutc {
+	text-align:left;
+}
+.tempatstore {float:left; margin-top:10px;}
+.bg1 {background:url(img/bg.jpg)}
+.kotak {
+	height:150px;
+	width:230px;
+	float:left;
+	margin:20px;
+	background-color:#333;
+}
